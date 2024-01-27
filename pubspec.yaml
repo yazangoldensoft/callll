@@ -24,7 +24,7 @@ dependency_overrides:
   intl: ^0.18.1
   
   zego_express_engine:
-    path: ../lips/
+    path: ../lips
 dev_dependencies:
   flutter_test:
     sdk: flutter
