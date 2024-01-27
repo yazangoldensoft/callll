@@ -22,7 +22,7 @@ dependencies:
 
 dependency_overrides:
   intl: ^0.18.1
-
+  zego_express_engine: ^3.9.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
